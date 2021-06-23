@@ -4,6 +4,7 @@ public class Person {
     private String name;
     private int id;
     private int number;
+    private int count;
 
     public Person() {
     }
